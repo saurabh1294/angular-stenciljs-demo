@@ -1,6 +1,8 @@
 import { enableProdMode } from '@angular/core';
 import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 
+/* Below are modules defined in my custom package available at:-
+https://www.npmjs.com/package/@golibrary/shopping-cart-stenciljs */
 import {
   applyPolyfills,
   defineCustomElements as defineProductMgmtExp
